@@ -1,0 +1,17 @@
+C:\Users\45589\source\repos\information1\information1\bin\Debug\net6.0-windows\information1.exe
+C:\Users\45589\source\repos\information1\information1\bin\Debug\net6.0-windows\information1.deps.json
+C:\Users\45589\source\repos\information1\information1\bin\Debug\net6.0-windows\information1.runtimeconfig.json
+C:\Users\45589\source\repos\information1\information1\bin\Debug\net6.0-windows\information1.dll
+C:\Users\45589\source\repos\information1\information1\bin\Debug\net6.0-windows\information1.pdb
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.vbproj.AssemblyReference.cache
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.Form1.resources
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.vbproj.GenerateResource.cache
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.AssemblyInfoInputs.cache
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.AssemblyInfo.vb
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.vbproj.CoreCompileInputs.cache
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.dll
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\refint\information1.dll
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.pdb
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\information1.genruntimeconfig.cache
+C:\Users\45589\source\repos\information1\information1\obj\Debug\net6.0-windows\ref\information1.dll
